@@ -1,3 +1,6 @@
-# This is a first project in Business Certified Courses Program issued by FUNIX
+# This is a fourth project in Business Certified Courses Program issued by FUNIX
 
-Link to the website : [VHTravel](http://vhtravel.tk)
+## This project includes 2 mini projects
+
+1. Sorting and Searching Algorithms
+2. Linked List, Stack, Queue and Recursion
